@@ -1,0 +1,10 @@
+/.pytest_cache
+/.vscode
+/allure-result
+/pages/__pycache__
+/test/__pycache__
+/test/.pytest_cache
+/test/allure-result
+/test/allure-results
+/__pycache__
+/allure-results
